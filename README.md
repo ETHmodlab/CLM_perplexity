@@ -20,7 +20,7 @@ This is the supporting code for the paper «Perplexity-based molecule ranking an
 First, you need to [clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository):
 
 ```
-git clone git@github.com:michael1788/CLM_perplexity.git
+git clone git@github.com:ETHmodlab/CLM_perplexity.git
 ```
 Then, you can run the following command, which will create a conda virtual environment and install all the needed packages (if you don't have conda, you can follow the instructions to install it [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)).  
 
